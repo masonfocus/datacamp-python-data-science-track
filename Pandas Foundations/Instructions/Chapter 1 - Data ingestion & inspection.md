@@ -1,4 +1,4 @@
-# Chapter 1 - Data ingestion & inspection
+# Chapter 1 - Data ingestion & inspection   
 ## NumPy and pandas working together
 100xp
 Pandas depends upon and interoperates with NumPy, the Python library for fast numeric array computations. For example, you can use the DataFrame attribute .values to represent a DataFrame df as a NumPy array. You can also pass pandas data structures to NumPy methods. In this exercise, we have imported pandas as pd and loaded world population data every 10 years since 1960 into the DataFrame df. This dataset was derived from the one used in the previous exercise.
